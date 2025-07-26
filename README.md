@@ -63,7 +63,7 @@ Explore or modify the dashboard visuals in `uber.pbix`.
 
 navigate to the analysis.md to view the analysis stages
 at the end the powerBI dashboard looks like this 
-![](/powerbi/uber.png)
+![](/images/powerbi.png)
 
 
 

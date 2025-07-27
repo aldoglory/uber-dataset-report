@@ -1,6 +1,6 @@
-# 🚕 Uber Fares Dataset Analysis – Comprehensive Report
+# Uber Fares Dataset Analysis – Comprehensive Report
 
-## 📂 Dataset Description and Sources
+##  Dataset Description and Sources
 
 **Dataset Name:** Uber Fares Dataset  
 **Source:** [Kaggle – Uber Fares Dataset by Yasser Hatim](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset)
@@ -21,7 +21,7 @@ This dataset contains historical Uber trip records from New York City. Each entr
 
 ---
 
-## 🧹 Data Cleaning Methodology
+##  Data Cleaning Methodology
 
 Cleaning steps were conducted in **Python (Pandas)**:
 
@@ -44,7 +44,7 @@ Cleaning steps were conducted in **Python (Pandas)**:
 
 ---
 
-## 📊 Key Visualizations (Power BI)
+##  Key Visualizations (Power BI)
 
 Data visualized in **Power BI Desktop**, highlighting:
 
